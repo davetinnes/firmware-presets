@@ -161,6 +161,7 @@
       "Botgrinder",
       "ctzsnooze",
       "Daniel Appel / Tehllama",
+      "Dave Tinnes",
       "Davide FPV (Davide Angeletti)",
       "Directory",
       "Evan Turner (Headsup)",
@@ -493,6 +494,7 @@
       "Team Black Sheep",
       "Texas",
       "thicc",
+      "tinnes",
       "tiny",
       "tiny tank",
       "TinyTrainer",
@@ -883,6 +885,24 @@
         "OSD"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/Tinnes.txt",
+      "hash": "2aa6edd2f4ea226f4e88f1ac63f44c1f76dcb82aac822b537bc26f65748d8820",
+      "title": "Tinnes OSD settings",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "OSD",
+      "status": "OFFICIAL",
+      "keywords": [
+        "tinnes",
+        "OSD"
+      ],
+      "author": "Dave Tinnes",
       "priority": 0
     },
     {
