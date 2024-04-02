@@ -1603,6 +1603,25 @@
       "priority": 10000
     },
     {
+      "fullPath": "presets/4.3/rates/Tinnes.txt",
+      "hash": "cc51073f9d81285f69fa05af0cf123ec76c29d918167a86180ad02a16ed41fac",
+      "title": "Dave Tinnes rates",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "youtube",
+        "bardwell",
+        "freestyle"
+      ],
+      "author": "Joshua Bardwell",
+      "priority": 10000
+    },
+    {
       "fullPath": "presets/4.3/rates/UAV_tech.txt",
       "hash": "8f400aca920265d3f11a105e8ff18c8c5292f0d586bc967d58f8985ee71f3f8c",
       "title": "UAV Tech Rates (w/ Cinematic/Whoop Options)",
